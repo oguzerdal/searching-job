@@ -1,0 +1,155 @@
+{  
+       "jobList": [
+        {
+        "id": "C71CD1954BA149BCAF42B25F775EA4F1",
+        "positionName": "Muhasebe Elemanı",
+        "companyName": "Ege Alüminyum",
+        "durationDay": 0,
+        "durationDayText": "Taze çıktı!",
+        "imageUrl": "http://localhost/bluecollar/Company/Job/000/000/000/avatar/13920170713010155805.jpg",
+        "distance": "8,53 km yakınında",
+        "latitude": 41.050968170166023,
+        "longitude": 29.062856674194339,
+        "cityName": "Hatay",
+        "townName": "Antakya"
+    }, {
+        "id": "C71CD1954BA149BCAF42B25F775EA4F2",
+        "positionName": "Mimari Projeler Yöneticisi",
+        "companyName": "Çevik Mimarlık",
+        "durationDay": 0,
+        "durationDayText": "Taze çıktı!",
+        "imageUrl": "http://localhost/bluecollar/Company/Job/000/000/000/avatar/13920170713010155805.jpg",
+        "distance": "8,53 km yakınında",
+        "latitude": 41.050968170166023,
+        "longitude": 29.062856674194339,
+        "cityName": "Ankara",
+        "townName": "Etimesgut"
+    }, {
+        "id": "C71CD1954BA149BCAF42B25F775EA4F3",
+        "positionName": "Sistem Destek Elemanı",
+        "companyName": "Plascam Plastik",
+        "durationDay": 0,
+        "durationDayText": "Taze çıktı!",
+        "imageUrl": "http://localhost/bluecollar/Company/Job/000/000/000/avatar/13920170713010155805.jpg",
+        "distance": "8,53 km yakınında",
+        "latitude": 41.050968170166023,
+        "longitude": 29.062856674194339,
+        "cityName": "Adana",
+        "townName": "Seyhan"
+    },
+    {
+        "id": "C71CD1954BA149BCAF42B25F775EA4F4",
+        "positionName": "Yazılım Destek Elemanı",
+        "companyName": "Glamira Kuyumculuk",
+        "durationDay": 0,
+        "durationDayText": "Taze çıktı!",
+        "imageUrl": "http://localhost/bluecollar/Company/Job/000/000/000/avatar/13920170713010155805.jpg",
+        "distance": "8,53 km yakınında",
+        "latitude": 41.050968170166023,
+        "longitude": 29.062856674194339,
+        "cityName": "Sakarya",
+        "townName": "Serdivan"
+    }
+],
+"jobDetail": [{
+    "id": "C71CD1954BA149BCAF42B25F775EA4F1",
+    "positionName": "Muhasebe Elemanı",
+    "companyName": "Ege Alüminyum",
+    "durationDay": 0,
+    "durationDayText": "Taze çıktı!",
+    "imageUrl": "https://localhost/bluecollar/company/job/Default/6.jpg",
+    "countryCode": "TR",
+    "countryName": "Türkiye",
+    "cityName": "Hatay",
+    "townName": "Antakya",
+    "address": "Cumhuriyet, Adnan Menderes Cd. No:4, 31000 Antakya/Hatay",
+    "postalCode": 34768,
+    "hasLatitude": true,
+    "hasLongitude": true,
+    "latitude": 41.0266502,
+    "longitude": 29.1157803,
+    "description": "Plastik sektöründe faaliyet gösteren şirketimizin İstoç ta bulunan ofisinde görevlendirilmek üzere “Muhasebe Elemanı” aramaktayız.",
+    "status": 1,
+    "contactPhone": {
+        "countryCallingCode": "+90",
+        "areaCode": "879",
+        "number": "9797979"
+    }
+}, {
+    "id": "C71CD1954BA149BCAF42B25F775EA4F2",
+    "positionName": "Mimari Projeler Yöneticisi",
+    "companyName": "Çevik Mimarlık",
+    "durationDay": 0,
+    "durationDayText": "Taze çıktı!",
+    "imageUrl": "https://localhost/bluecollar/company/job/Default/6.jpg",
+    "countryCode": "TR",
+    "countryName": "Türkiye",
+    "cityName": "Ankara",
+    "townName": "Etimesgut",
+    "address": "30 Ağustos, Şehit Hasan Öztürk Caddesi & 2087. Sokak 10/C, 06790 Etimesgut/Ankara",
+    "postalCode": 34768,
+    "hasLatitude": true,
+    "hasLongitude": true,
+    "latitude": 41.0266502,
+    "longitude": 29.1157803,
+    "description": "Yeni model çalışmalarına hevesli ,gelişime açık ,detaylara önem veren takım arkadaşları arayışımız bulunmaktadır.",
+    "status": 1,
+    "contactPhone": {
+        "countryCallingCode": "+90",
+        "areaCode": "879",
+        "number": "9808080"
+    }
+},
+ {
+    "id": "C71CD1954BA149BCAF42B25F775EA4F3",
+    "positionName": "Sistem Destek Elemanı",
+    "companyName": "Plascam Plastik",
+    "durationDay": 0,
+    "durationDayText": "Taze çıktı!",
+    "imageUrl": "https://localhost/bluecollar/company/job/Default/6.jpg",
+    "countryCode": "TR",
+    "countryName": "Türkiye",
+    "cityName": "Adana",
+    "townName": "Seyhan",
+    "address": "Seyhan, Turhan Cemal Beriker Blv. No:57, 01068 Seyhan/Adana",
+    "postalCode": 34768,
+    "hasLatitude": true,
+    "hasLongitude": true,
+    "latitude": 41.0266502,
+    "longitude": 29.1157803,
+    "description": " Kullanıcılar tarafından bildirilen problem ve  talepleri karşılamak, analiz etmek, zamanında çözüm üretmek ve çözümün takibini sağlamak",
+    "status": 1,
+    "contactPhone": {
+        "countryCallingCode": "+90",
+        "areaCode": "879",
+        "number": "9797979"
+    }
+},
+{
+    "id": "C71CD1954BA149BCAF42B25F775EA4F4",
+    "positionName": "Yazılım Destek Elemanı",
+    "companyName": "Glamira Kuyumculuk",
+    "durationDay": 0,
+    "durationDayText": "Taze çıktı!",
+    "imageUrl": "https://localhost/bluecollar/company/job/Default/6.jpg",
+    "countryCode": "TR",
+    "countryName": "Türkiye",
+    "cityName": "Sakarya",
+    "townName": "Serdivan",
+    "address": "Arabacıalanı Mah., Mert Sok. No: 25 Serdivan/Sakarya ",
+    "postalCode": 34768,
+    "hasLatitude": true,
+    "hasLongitude": true,
+    "latitude": 41.0266502,
+    "longitude": 29.1157803,
+    "description": " Entegrasyon noktalarımızla ilgili çalıştığımız üçüncü parti süreçleriyle ilgili işleyişin eksiksiz yürümesi.",
+    "status": 1,
+    "contactPhone": {
+        "countryCallingCode": "+90",
+        "areaCode": "879",
+        "number": "9797979"
+    }
+}
+]
+
+}
