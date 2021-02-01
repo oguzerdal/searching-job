@@ -23,7 +23,6 @@
             <th scope="col">Şirket İsmi</th>
             <th scope="col">Şehir</th>
             <th scope="col">Semt</th>
-
             <th scope="col">Detaylara Git</th>
           </tr>
         </thead>
@@ -33,11 +32,9 @@
             <td>{{ job.companyName }}</td>
             <td>{{ job.cityName }}</td>
             <td>{{ job.townName }}</td>
-
             <td>
               <router-link :to="{ name: 'jobDetail', params: { id: job.id } }"
-                >İlan detaylarını görüntüle</router-link
-              >
+                >İlan detaylarını görüntüle</router-link>
             </td>
           </tr>
         </tbody>
