@@ -40,7 +40,7 @@
       </tr>
       <tr></tr>
       <tr>
-        <th scope="col">Telefon Numarasııı:</th>
+        <th scope="col">Telefon Numarası:</th>
         <td>{{ contactPhone }}</td>
       </tr>
     </table>

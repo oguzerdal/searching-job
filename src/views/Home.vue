@@ -34,7 +34,7 @@
             <td>{{ job.townName }}</td>
             <td>
               <router-link :to="{ name: 'jobDetail', params: { id: job.id } }"
-                >İlan detaylarını görüntüle</router-link>
+                >İlan detaylarını göster</router-link>
             </td>
           </tr>
         </tbody>
